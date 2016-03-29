@@ -1,0 +1,38 @@
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:178 - Start HIHAF
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:4448 - File HHAF_Framework_2.31.1.jar
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:4467 - HIHAF: \n
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:4469 - Title: HIHAF
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:4469 - Version: 2.31.1
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:182 - Start Read Util File Method
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:338 - Project Name :Firebase
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:344 - Platform: LINUX
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:345 - In MAC machine
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:351 - User Dir Path: /root/Firebase/Standalone
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:354 - Config Framework File Path Location: /root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:391 - Config File:/root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:393 - FileInputStream
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:438 - The Test Suite is config/Firebase/Config_Framework.xls
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:439 - The Test Script is CoreFrame/Firebase/TestScripts/
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:440 - The Object Repository is CoreFrame/Firebase/ObjectRepository.xls
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:441 - The Report Path is CoreFrame/Firebase/TestReports/
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:442 - The Browser type is FF
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:193 - Skip Jacob DLL
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:204 - End Read Util File Method
+2016-03-23 11:35:33 INFO  SeleniumWebdriverProj:48 - Launching firefox.
+2016-03-23 11:36:23 ERROR SeleniumWebdriverProj:341 - Failed to connect to binary FirefoxBinary(/usr/bin/firefox) on port 7055; process output follows: 
+Error: cannot open display: :99
+
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'N/A', ip: 'N/A', os.name: 'Linux', os.arch: 'amd64', os.version: '2.6.32-573.18.1.el6.x86_64', java.version: '1.8.0_45'
+Driver info: driver.version: FirefoxDriver
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:260 - Start of the Executing Test Script
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:492 - In find executeTestscript
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:502 - 25
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:523 - Time Start:2016-03-23 11:36:23
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:833 - Time End:2016-03-23 11:36:23
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:838 - Suite Time Diff:00:00:00
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:264 - End of the Executing Test Script
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:277 - Test Completed.
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:63 - testKeywordDrivenFramework(SeleniumWebdriverProj.SeleniumWebdriverProj): null
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:39 - ===================================================================================
+2016-03-23 11:36:23 INFO  SeleniumWebdriverProj:40 - Entered into Send Email method.

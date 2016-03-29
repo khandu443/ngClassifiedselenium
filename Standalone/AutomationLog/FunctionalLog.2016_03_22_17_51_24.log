@@ -1,0 +1,37 @@
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:178 - Start HIHAF
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:4439 - File HHAF_Framework_2.31.1.jar
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:4439 - File HHAF_Framework_2.31.0.jar
+2016-03-22 17:51:24 ERROR SeleniumWebdriverProj:4448 - /root/Firebase/Standalone\HHAF_Framework_2.31.0.jar: no such file
+2016-03-22 17:51:24 ERROR SeleniumWebdriverProj:4464 - Failed to read manifest for /root/Firebase/Standalone\HHAF_Framework_2.31.0.jar: java.io.FileNotFoundException: /root/Firebase/Standalone\HHAF_Framework_2.31.0.jar (No such file or directory)
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:182 - Start Read Util File Method
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:338 - Project Name :Firebase
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:344 - Platform: LINUX
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:345 - In MAC machine
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:351 - User Dir Path: /root/Firebase/Standalone
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:354 - Config Framework File Path Location: /root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:391 - Config File:/root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-22 17:51:24 INFO  SeleniumWebdriverProj:393 - FileInputStream
+2016-03-22 17:51:25 INFO  SeleniumWebdriverProj:438 - The Test Suite is config/Firebase/Config_Framework.xls
+2016-03-22 17:51:25 INFO  SeleniumWebdriverProj:439 - The Test Script is CoreFrame/Firebase/TestScripts/
+2016-03-22 17:51:25 INFO  SeleniumWebdriverProj:440 - The Object Repository is CoreFrame/Firebase/ObjectRepository.xls
+2016-03-22 17:51:25 INFO  SeleniumWebdriverProj:441 - The Report Path is CoreFrame/Firebase/TestReports/
+2016-03-22 17:51:25 INFO  SeleniumWebdriverProj:442 - The Browser type is FF
+2016-03-22 17:51:27 INFO  SeleniumWebdriverProj:277 - Test Completed.
+2016-03-22 17:51:27 INFO  SeleniumWebdriverProj:63 - testKeywordDrivenFramework(SeleniumWebdriverProj.SeleniumWebdriverProj): /root/Firebase/Standalone/lib/jacob-1.17-x86.dll: /root/Firebase/Standalone/lib/jacob-1.17-x86.dll: invalid ELF header (Possible cause: endianness mismatch)
+2016-03-22 17:51:27 INFO  SeleniumWebdriverProj:63 - testKeywordDrivenFramework(SeleniumWebdriverProj.SeleniumWebdriverProj): null
+2016-03-22 17:51:27 INFO  SeleniumWebdriverProj:39 - ===================================================================================
+2016-03-22 17:51:27 INFO  SeleniumWebdriverProj:40 - Entered into Send Email method.
+2016-03-22 17:51:35 INFO  SeleniumWebdriverProj:99 - /root/Firebase/Standalone
+2016-03-22 17:51:35 ERROR SeleniumWebdriverProj:165 - Error occurred in Send Email method
+java.lang.NullPointerException
+	at java.io.FileInputStream.<init>(FileInputStream.java:130)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.ui.util.EmailSend.sendEmail(EmailSend.java:107)
+	at com.run.RunTestStandalone.main(RunTestStandalone.java:72)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+2016-03-22 17:51:35 INFO  SeleniumWebdriverProj:84 - false

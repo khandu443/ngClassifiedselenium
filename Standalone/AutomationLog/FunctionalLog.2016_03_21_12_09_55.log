@@ -1,0 +1,555 @@
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:178 - Start HIHAF
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:4842 - File HHAF_Framework_2.31.0.jar
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:4870 - HIHAF: \n
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:4872 - Title: HIHAF
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:4872 - Version: 2.31.0
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:182 - Start Read Util File Method
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:450 - Project Name :Firebase
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:470 - Platform: VISTA
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:472 - In Window machine
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:478 - User Dir Path: E:\HIHAFProject\Firebase\Standalone
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:481 - Config Framework File Path Location: E:\HIHAFProject\Firebase\Standalone\config\Firebase\Config_Framework.xls
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:503 - Config File:E:\HIHAFProject\Firebase\Standalone\config\Firebase\Config_Framework.xls
+2016-03-21 12:09:55 INFO  SeleniumWebdriverProj:505 - FileInputStream
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:550 - The Test Suite is E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\TestSuite.xls
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:551 - The Test Script is E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\Test Scripts\\
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:552 - The Object Repository is E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\ObjectRepository.xls
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:553 - The Report Path is E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\Test Reports\\
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:554 - The Browser type is FF
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:204 - End Read Util File Method
+2016-03-21 12:09:56 INFO  SeleniumWebdriverProj:48 - Launching firefox.
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:87 - 36.0
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:367 - Start of the Executing Test Script
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:604 - In find executeTestscript
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:614 - 8
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:635 - Time Start:2016-03-21 12:10:06
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:691 - Start of the Test Script Name: Login.xls
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:703 - Start Time: Mon Mar 21 12:10:06 IST 2016
+
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:706 - E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\Test Scripts\\Login.xls
+2016-03-21 12:10:06 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Testdata.xls
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:98 - In Case Importdata
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:100 - E:\HIHAFProject\Firebase\Standalone
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:132 - The Testdata Excel is: E:\HIHAFProject\Firebase\Standalone\TestData\Firebase\Testdata.xls
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:149 - Test Data imported successfully
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: URL:dt_URL
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:173 - In Case LaunchApplication
+2016-03-21 12:10:07 INFO  SeleniumWebdriverProj:195 - Data to compare is : http://10.0.12.26
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Username;30
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:2450 - The object property value is //*[@id='username']
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='username']
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='username']
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='username'] by XPATH
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:10 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Username
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Username
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:278 - The or name is: Username
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:279 - The obj val is: Username
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='username']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:298 - Windows object type is : Input
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3959 - The Data is : admin
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='username']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='username']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='username']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='username'] by XPATH
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Password
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Password
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:278 - The or name is: Password
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:279 - The obj val is: Password
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='password']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:298 - Windows object type is : input
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3959 - The Data is : admin
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='password']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='password']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='password']
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='password'] by XPATH
+2016-03-21 12:10:11 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:12 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:12 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:12 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 2000
+2016-03-21 12:10:12 INFO  SeleniumWebdriverProj:3502 - In case threadwait
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Button;LoginButton
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:278 - The or name is: LoginButton
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:279 - The obj val is: LoginButton
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:294 - The or value is: //button[@aria-label='Login']
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:298 - Windows object type is : Button
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://button[@aria-label='Login']
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3170 - String Object Path://button[@aria-label='Login']
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://button[@aria-label='Login']
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3249 - Action: click
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3250 - finding //button[@aria-label='Login'] by XPATH
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:14 INFO  SeleniumWebdriverProj:3987 - Object Set is : click
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2834 - Clicking Done
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Text;ClassifiedLoggedMsg;30
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Text;ClassifiedLoggedMsg
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3552 - In Case storevalue
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2420 - Store any value in variable ObjectSetValCh:VarMessage
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3249 - Action: gettext
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2588 - Actual value is: Login Successful!!
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:2987 - Overwriting the value of the variable VarMessage to store the value as mentioned in the test case row number12
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: #VarMessage;equals;Login Successfully
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1365 - In case verify
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1008 - Variable used in condition statement has value1 : Login Successful!!
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1010 - Variable used in condition statement has value2 : Login Successfully
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1012 - Performing operation :equals
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1263 - Returning FALSE for if  condition
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1367 - false
+2016-03-21 12:10:15 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\Login\\Login_1_rowno_13_20160321-12-10-15.png
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\Login\\Login_2_rowno_13_20160321-12-10-16.png
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:4374 - Original Screenshot File '\Login_2_rowno_13_20160321-12-10-16.png' Deleted.
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:2050 - The STEP FAILED
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:1376 - THE STATUS OF Condition is: false
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:1378 - 12
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:738 - End Time: Mon Mar 21 12:10:16 IST 2016
+
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:741 - Script Execution Time is 09.49 seconds
+
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:691 - Start of the Test Script Name: Logout.xls
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:703 - Start Time: Mon Mar 21 12:10:16 IST 2016
+
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:706 - E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\Test Scripts\\Logout.xls
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 15000
+2016-03-21 12:10:16 INFO  SeleniumWebdriverProj:3502 - In case threadwait
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Button;LogoutButton
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:278 - The or name is: LogoutButton
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:279 - The obj val is: LogoutButton
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:294 - The or value is: //md-toolbar/div/a[@aria-label='Logout']
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:298 - Windows object type is : Button
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://md-toolbar/div/a[@aria-label='Logout']
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3170 - String Object Path://md-toolbar/div/a[@aria-label='Logout']
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://md-toolbar/div/a[@aria-label='Logout']
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3249 - Action: jsclick
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3250 - finding //md-toolbar/div/a[@aria-label='Logout'] by XPATH
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3987 - Object Set is : jsclick
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:2865 - In JavaScript Executor Click
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:2875 - JS Click Done:
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 5000
+2016-03-21 12:10:31 INFO  SeleniumWebdriverProj:3502 - In case threadwait
+2016-03-21 12:10:36 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Username;30
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:2450 - The object property value is //*[@id='username']
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='username']
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='username']
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='username'] by XPATH
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:3538 - In case screencapture
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\Logout\\Logout_3_rowno_7_20160321-12-10-37.png
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:4374 - Original Screenshot File '\Logout_3_rowno_7_20160321-12-10-37.png' Deleted.
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:738 - End Time: Mon Mar 21 12:10:37 IST 2016
+
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:741 - Script Execution Time is 21.22 seconds
+
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:691 - Start of the Test Script Name: AddClassified.xls
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:703 - Start Time: Mon Mar 21 12:10:37 IST 2016
+
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:706 - E:\\HIHAFProject\\Firebase\\Standalone\\CoreFrame\\Firebase\\Test Scripts\\AddClassified.xls
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Testdata.xls
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:98 - In Case Importdata
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:100 - E:\HIHAFProject\Firebase\Standalone
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:132 - The Testdata Excel is: E:\HIHAFProject\Firebase\Standalone\TestData\Firebase\Testdata.xls
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:149 - Test Data imported successfully
+2016-03-21 12:10:37 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: URL:dt_URL
+2016-03-21 12:10:38 INFO  SeleniumWebdriverProj:173 - In Case LaunchApplication
+2016-03-21 12:10:38 INFO  SeleniumWebdriverProj:195 - Data to compare is : http://10.0.12.26
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Username;30
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:2450 - The object property value is //*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='username'] by XPATH
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Username
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Username
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:278 - The or name is: Username
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:279 - The obj val is: Username
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:298 - Windows object type is : Input
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3959 - The Data is : admin
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='username']
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='username'] by XPATH
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Input;Password
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Password
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:278 - The or name is: Password
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:279 - The obj val is: Password
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:39 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='password']
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:298 - Windows object type is : input
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3959 - The Data is : admin
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='password']
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='password']
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='password']
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='password'] by XPATH
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 2000
+2016-03-21 12:10:40 INFO  SeleniumWebdriverProj:3502 - In case threadwait
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Button;LoginButton
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:278 - The or name is: LoginButton
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:279 - The obj val is: LoginButton
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:294 - The or value is: //button[@aria-label='Login']
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:298 - Windows object type is : Button
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://button[@aria-label='Login']
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3170 - String Object Path://button[@aria-label='Login']
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://button[@aria-label='Login']
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3249 - Action: click
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3250 - finding //button[@aria-label='Login'] by XPATH
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:42 INFO  SeleniumWebdriverProj:3987 - Object Set is : click
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2834 - Clicking Done
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Text;ClassifiedLoggedMsg;30
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Text;ClassifiedLoggedMsg
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3552 - In Case storevalue
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2420 - Store any value in variable ObjectSetValCh:VarMessage
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3249 - Action: gettext
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2588 - Actual value is: Login Successful!!
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:2979 - Overwriting the value of the variable VarMessage to store the value as mentioned in the test case row number12
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: #VarMessage;contains;Login Successful!!
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1365 - In case verify
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1008 - Variable used in condition statement has value1 : Login Successful!!
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1010 - Variable used in condition statement has value2 : Login Successful!!
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1012 - Performing operation :contains
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1260 - Returning TRUE for if  condition
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1367 - true
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Link;NewClassifiedTab
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:278 - The or name is: NewClassifiedTab
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:279 - The obj val is: NewClassifiedTab
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:294 - The or value is: //md-toolbar/div/a[@aria-label='New Classified']
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:298 - Windows object type is : Link
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://md-toolbar/div/a[@aria-label='New Classified']
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3170 - String Object Path://md-toolbar/div/a[@aria-label='New Classified']
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://md-toolbar/div/a[@aria-label='New Classified']
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3249 - Action: click
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3250 - finding //md-toolbar/div/a[@aria-label='New Classified'] by XPATH
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:43 INFO  SeleniumWebdriverProj:3987 - Object Set is : click
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:2834 - Clicking Done
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: input;AddClassifiedTitle;30
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:2450 - The object property value is //*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='title'] by XPATH
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: true
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3123 - Actual value matches with expected value. Actual value is true
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: input;AddClassifiedTitle
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Title
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:278 - The or name is: AddClassifiedTitle
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:279 - The obj val is: AddClassifiedTitle
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:298 - Windows object type is : input
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3959 - The Data is : Test Automation
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='title']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='title'] by XPATH
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: input;AddClassifiedPrice
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Price
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:278 - The or name is: AddClassifiedPrice
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:279 - The obj val is: AddClassifiedPrice
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='price']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:298 - Windows object type is : input
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3959 - The Data is : 50
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='price']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='price']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='price']
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='price'] by XPATH
+2016-03-21 12:10:44 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: input;AddClassifiedDescription
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:248 - The Object Selected Value is :sendkey
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:250 - The Object Selected Value is :dt_Description
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:268 - ORrowcount 424
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:278 - The or name is: AddClassifiedDescription
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:279 - The obj val is: AddClassifiedDescription
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:294 - The or value is: //*[@id='description']
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:298 - Windows object type is : input
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3948 - The dt_ is present:
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3959 - The Data is : Test Automation Description
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://*[@id='description']
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3170 - String Object Path://*[@id='description']
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://*[@id='description']
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3249 - Action: sendkey
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3250 - finding //*[@id='description'] by XPATH
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:45 INFO  SeleniumWebdriverProj:3987 - Object Set is : sendkey
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: Button;AddClassifiedSave
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3895 - In Case perform
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:278 - The or name is: AddClassifiedSave
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:279 - The obj val is: AddClassifiedSave
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:283 - The or value name is: xpath
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:294 - The or value is: //button[@aria-label='Save']
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:298 - Windows object type is : Button
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3979 - In d cell action
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3938 - In read Attribute for Perform
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3982 - The Object Respository Value Passed To Find Object function is://button[@aria-label='Save']
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3170 - String Object Path://button[@aria-label='Save']
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is://button[@aria-label='Save']
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3249 - Action: click
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3250 - finding //button[@aria-label='Save'] by XPATH
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3271 - Element Exists value identified by xpath
+2016-03-21 12:10:46 INFO  SeleniumWebdriverProj:3987 - Object Set is : click
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:2834 - Clicking Done
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: text;ClassifiedSaveMsg;30
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3557 - In Case explicitwait
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:2714 - In case wait
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3249 - Action: wait
+2016-03-21 12:10:47 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:11:18 INFO  SeleniumWebdriverProj:3407 - Not able to find the object
+2016-03-21 12:11:18 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\AddClassified\\AddClassified_4_rowno_20_20160321-12-11-18.png
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:4374 - Original Screenshot File '\AddClassified_4_rowno_20_20160321-12-11-18.png' Deleted.
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:2349 - The STEP FAILED
+2016-03-21 12:11:20 ERROR SeleniumWebdriverProj:3410 - org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: html/body/md-toast/div/span
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SCS-H36', ip: '10.0.3.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_71'
+Session ID: 11cc7a55-1772-4abf-ad5b-28dbba67f4e1
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=36.0}]
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3112 - Object Set Val Ch: true
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3114 - Expected Value: true Actual Value: 
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3128 - Actual value doesn't match with expected value. Actual value is 
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: text;ClassifiedSaveMsg
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3552 - In Case storevalue
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:2393 - In Function storecheck: 
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:2420 - Store any value in variable ObjectSetValCh:VarSaveMsg
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:2444 - The object property type is xpath
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:2450 - The object property value is html/body/md-toast/div/span
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3170 - String Object Path:html/body/md-toast/div/span
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3171 - The function find object
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3172 - The object type is:xpath
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3173 - The object property xpath or id is:html/body/md-toast/div/span
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3249 - Action: gettext
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3250 - finding html/body/md-toast/div/span by XPATH
+2016-03-21 12:11:20 INFO  SeleniumWebdriverProj:3260 - finding object by XPATH
+2016-03-21 12:11:30 INFO  SeleniumWebdriverProj:3407 - Not able to find the object
+2016-03-21 12:11:30 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\AddClassified\\AddClassified_5_rowno_21_20160321-12-11-30.png
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:4396 - source file deleted
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:2349 - The STEP FAILED
+2016-03-21 12:11:32 ERROR SeleniumWebdriverProj:3410 - org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"html/body/md-toast/div/span"}
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'SCS-H36', ip: '10.0.3.38', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_71'
+*** Element info: {Using=xpath, value=html/body/md-toast/div/span}
+Session ID: 11cc7a55-1772-4abf-ad5b-28dbba67f4e1
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=36.0}]
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:2987 - Overwriting the value of the variable VarSaveMsg to store the value as mentioned in the test case row number21
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: #VarSaveMsg;contains;Classified Saved
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1365 - In case verify
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1008 - Variable used in condition statement has value1 : 
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1010 - Variable used in condition statement has value2 : Classified Saved
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1012 - Performing operation :contains
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1263 - Returning FALSE for if  condition
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1367 - false
+2016-03-21 12:11:32 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\AddClassified\\AddClassified_6_rowno_22_20160321-12-11-32.png
+2016-03-21 12:11:33 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\AddClassified\\AddClassified_7_rowno_22_20160321-12-11-33.png
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:4396 - source file deleted
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:2050 - The STEP FAILED
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:1376 - THE STATUS OF Condition is: false
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:1378 - 21
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:3538 - In case screencapture
+2016-03-21 12:11:35 INFO  SeleniumWebdriverProj:1434 - Screenshot File Name: e:\\hihafproject\\firebase\\standalone\\coreframe\\firebase\\test reports\\screenshot_report\\ff\\AddClassified\\AddClassified_8_rowno_23_20160321-12-11-35.png
+2016-03-21 12:11:36 INFO  SeleniumWebdriverProj:4374 - Original Screenshot File '\AddClassified_8_rowno_23_20160321-12-11-35.png' Deleted.
+2016-03-21 12:11:36 INFO  SeleniumWebdriverProj:1223 - The CCellData or objectdetails: 15000
+2016-03-21 12:11:36 INFO  SeleniumWebdriverProj:3502 - In case threadwait

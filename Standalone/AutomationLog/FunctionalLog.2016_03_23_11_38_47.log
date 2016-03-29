@@ -1,0 +1,21 @@
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:178 - Start HIHAF
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:4448 - File HHAF_Framework_2.31.1.jar
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:4467 - HIHAF: \n
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:4469 - Title: HIHAF
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:4469 - Version: 2.31.1
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:182 - Start Read Util File Method
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:338 - Project Name :Firebase
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:344 - Platform: LINUX
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:345 - In MAC machine
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:351 - User Dir Path: /root/Firebase/Standalone
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:354 - Config Framework File Path Location: /root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:391 - Config File:/root/Firebase/Standalone/config/Firebase/Config_Framework.xls
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:393 - FileInputStream
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:438 - The Test Suite is config/Firebase/Config_Framework.xls
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:439 - The Test Script is CoreFrame/Firebase/TestScripts/
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:440 - The Object Repository is CoreFrame/Firebase/ObjectRepository.xls
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:441 - The Report Path is CoreFrame/Firebase/TestReports/
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:442 - The Browser type is FF
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:193 - Skip Jacob DLL
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:204 - End Read Util File Method
+2016-03-23 11:38:47 INFO  SeleniumWebdriverProj:48 - Launching firefox.
